@@ -1,0 +1,21 @@
+html{
+    background-color: #000;
+    font-size: 62.5%;
+    color: #fff;
+}
+
+@font-face {
+    font-family: "Yugioh";
+    src: url(./src/fonts/fonte-yu-gi-oh.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Yugioh" , sans-serif;
+}
+
+ul{
+    list-style: none;
+}
